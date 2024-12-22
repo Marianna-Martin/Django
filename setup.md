@@ -26,6 +26,15 @@ Essential for creating dynamic and interactive web applications!
 create a file namaed urls.py under api
 
 
+## 2.  MODELS.PY -defines databases
+
+
+
+
+
+
+
+
 
 
 
